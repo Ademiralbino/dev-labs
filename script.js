@@ -10,11 +10,12 @@
 
     // verificação da resposta sobre o site
   //  if (gostouDoSite.toLowerCase() === "sim") {
-        alert("Espero que goste!");
+    //    alert("Espero que goste!");
   //  } else if (gostouDoSite.toLowerCase() === "não") {
-        alert("Que pena! Agradecemos o seu feddback.");
+      //  alert("Que pena! Agradecemos o seu feddback.");
    // } else {
  //       alert("Resposta inválida, por favor responda apenas com 'sim' ou 'não'.");
 //    }
 
 //}
+
